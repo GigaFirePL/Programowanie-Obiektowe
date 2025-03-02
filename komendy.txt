@@ -4,3 +4,5 @@ pip install -r .\requirements.txt #instalacja bibliotek z pliku requirements.txt
 
  & c:/pythonapp/env/Scripts/Activate.ps1
  //otwiera venv Python w PowerShell (VSCode)
+
+ git config --global core.editor "notepad"
