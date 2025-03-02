@@ -1,0 +1,3 @@
+pip freeze > requirements.txt #tworzenie folderu z wymaganymi bibliotekami
+
+pip install -r .\requirements.txt #instalacja bibliotek z pliku requirements.txt
